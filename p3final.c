@@ -1,6 +1,6 @@
 nclude <stdio.h>
 void input(int *n,int *r)
-{#
+{
 printf("enter the value of n and r:\n");
 scanf("%d%d",n, r);
   }
